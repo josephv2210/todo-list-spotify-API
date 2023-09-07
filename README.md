@@ -75,10 +75,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [tu@email.com](mailto:tu@email.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en [tu@email.com](mailto:joseph.2210@hotmail.es).
 
 ¡Esperamos que disfrutes usando nuestra aplicación!
 
-```
-
-Asegúrate de personalizar este README con la información específica de tu proyecto, como los enlaces a tu repositorio, las capturas de pantalla y los detalles de contacto. También, asegúrate de proporcionar instrucciones claras sobre cómo configurar y ejecutar tu proyecto en la sección de "Instalación".
