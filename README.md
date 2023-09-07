@@ -32,13 +32,13 @@ _Inserta aquí algunas capturas de pantalla de tu aplicación en acción._
 1. Clona el repositorio a tu máquina local:
 
    ```shell
-   git clone https://github.com/tuusuario/tu-proyecto.git
+   git clone https://github.com/josephv2210/todo-list-spotify-API.git
    ```
 
 2. Ve al directorio del proyecto:
 
    ```shell
-   cd tu-proyecto
+   cd todo-list-spotify-API
    ```
 
 3. Instala las dependencias:
