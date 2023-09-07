@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-list-spotify-API/build/static/css/main.a3adc4a3.css",
+    "main.js": "/todo-list-spotify-API/build/static/js/main.313695d8.js",
+    "static/media/search.svg": "/todo-list-spotify-API/build/static/media/search.7b59b1236f991044b95222c9fb54048c.svg",
+    "index.html": "/todo-list-spotify-API/build/index.html",
+    "main.a3adc4a3.css.map": "/todo-list-spotify-API/build/static/css/main.a3adc4a3.css.map",
+    "main.313695d8.js.map": "/todo-list-spotify-API/build/static/js/main.313695d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3adc4a3.css",
+    "static/js/main.313695d8.js"
+  ]
+}
