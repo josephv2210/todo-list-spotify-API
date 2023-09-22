@@ -42,7 +42,7 @@ function App() {
           <TodoSelectCategory />
 
           <TodoGraph
-            progress={50}
+            progress={75}
           />
 
 
